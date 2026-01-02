@@ -27,24 +27,6 @@ This system leverages two primary data structures to balance performance and org
 
 * **Java Development Kit (JDK)**: Version 8 or higher.
 
-## How to Run
-
-1.  **Clone the repository** (or download the source code):
-    ```bash
-    git clone <your-repo-url>
-    cd LibraryManagementSystem/src
-    ```
-
-2.  **Compile the Java file**:
-    ```bash
-    javac LibraryManagementSystem.java
-    ```
-
-3.  **Execute the application**:
-    ```bash
-    java LibraryManagementSystem
-    ```
-
 ## Usage Example
 
 Upon running the application, you will see the following interactive menu:
